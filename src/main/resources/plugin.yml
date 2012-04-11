@@ -1,0 +1,8 @@
+author: p000ison
+database: false
+description: Allows you to enter a DreamWorld/NightMareWorld.
+main: com.p000ison.dev.blockregionblock.BlockRegionBlock
+name: BlockRegionBlock
+startup: postworld
+version: '1.0'
+depend: [ WorldGuard, WorldEdit ]
